@@ -16,6 +16,10 @@ Check in routes/api-routes and comment in block of code if you want the database
 npm install
 node server.js
 Running seeders/seed.js is optional to have a prepopulated database.
+
+VIDEO DEMO:![Fitness Tracker](https://user-images.githubusercontent.com/77952267/126256174-1eba4ea2-8957-4cbc-9692-6c26001db090.gif)
+![Screen Shot 2021-07-19 at 11 11 22 PM](https://user-images.githubusercontent.com/77952267/126256215-c22c1130-8ffd-4016-9df0-9a07fdd25e1a.png)
+
 ## Contributor 
 * Google and Coding Bootcamp
 ## Credits
